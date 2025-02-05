@@ -4,7 +4,8 @@
 
 This repository contains the implementation of a transfer learning approach for water consumption forecasting, aimed at reducing computational time, energy consumption, and CO₂ emissions. The project builds upon pre-trained deep learning models originally designed for electricity consumption prediction, leveraging similarities between both tasks to improve forecasting efficiency in water management systems.
 
-💡 Why it matters? AI is transforming industries, including water utilities, by optimizing resource management. However, AI models often require significant computational resources, leading to high energy consumption and environmental impact. This work proposes an energy-efficient deep learning methodology that mitigates these challenges by using transfer learning techniques.
+### Why it matters?  💡
+AI is transforming industries, including water utilities, by optimizing resource management. However, AI models often require significant computational resources, leading to high energy consumption and environmental impact. This work proposes an energy-efficient deep learning methodology that mitigates these challenges by using transfer learning techniques.
 
  ## Key Features ✨
 
